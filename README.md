@@ -1,0 +1,2 @@
+# Weather-Analytics-Dashboard-with-current-data-API-based-
+Real-Time Weather Analytics Dashboard - An interactive Power BI dashboard that leverages live weather APIs to provide comprehensive meteorological insights across multiple Indian cities. This project demonstrates advanced data visualization, API integration, and real-time data processing capabilities, showcasing proficiency in business intelligence
