@@ -157,5 +157,5 @@ This project demonstrates proficiency in:
 ---
 
 *Built with ❤️ using Microsoft Power BI | Real-time weather insights for smarter decisions*
-<img width="2355" height="1274" alt="Screenshot 2025-08-27 193408" src="https://github.com/user-attachments/assets/00274486-edff-487a-910f-e85c353e1190" />
+<img width="2248" height="1254" alt="Screenshot 2025-09-14 002913" src="https://github.com/user-attachments/assets/7f1e12cc-af25-49ce-882b-0b438eda651a" />
 
